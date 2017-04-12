@@ -1,0 +1,14 @@
+{
+  "name": "websocketificition-examples",
+  "version": "0.9.0",
+  "description": "Examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fisher",
+  "license": "ISC",
+  "dependencies": {
+    "websocketification": "^0.8.0"
+  }
+}
